@@ -1,6 +1,4 @@
-**AI-Augmented Builder · ideas & architecture first, LLM handles the rest**
-
-13 years · 40+ projects · ships ideas as products
+**Software engineer with 13+ years of experience in architecture, automation, and product development.**
 
 ---
 
